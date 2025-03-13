@@ -1,6 +1,10 @@
 ## Einfaches Risotto Rezept:
 
-Ein einfaches Rezept f
+Ein einfaches Rezept für einen entspannten Abend zuhause. Du brauchst:
+
+-Pilze
+-Reis
+-Zwiebeln
 
 Die Pilze putzen, die großen in Würfel schneiden. Die Schalotten und den Knoblauch schälen, fein hacken und in 1 EL Butter in einem Topf andünsten und den Reis kurz mitdünsten. Mit Weißwein ablöschen und den Geflügelfond hinzufügen. Den Reis etwa 12 Min. unter ständigem Rühren schwach kochen lassen, danach den Topf vom Herd nehmen. Die restliche Butter und den Parmesan darunter rühren.
 
