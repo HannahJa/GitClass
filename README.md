@@ -10,12 +10,6 @@ This is a local edit made on my computer
 
 This is another change made on Github
 
-<<<<<<< HEAD
-This is the conflict solution for 
-
-I hate Kuromi 
-=======
 This is the conflict solution 
 
 I love Kuromi
->>>>>>> refs/remotes/origin/main
