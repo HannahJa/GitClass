@@ -1,9 +1,6 @@
 # Example Recipie
 
-<<<<<<< HEAD
-In diesem Ordner ist ein Beispielrezept fuer meinen GIT kurs
+In diesem Ordner ist ein Beispielrezept fuer meinen GIT kurs.
 
-Okay whatever
-=======
-In diesem Ordner ist ein Beispielrezept fuer meinen GIT 
->>>>>>> conflictual
+This is an edit made on GitHub
+
