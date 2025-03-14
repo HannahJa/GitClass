@@ -10,4 +10,6 @@ This is a local edit made on my computer
 
 This is another change made on Github
 
-This is the conflict solution 
+This is the conflict solution for 
+
+I hate Kuromi 
